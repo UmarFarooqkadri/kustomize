@@ -10,6 +10,3 @@ helmCharts:
   includeCRDs: true
   valuesFile: values.yaml
 
-resources:
-- deployment.yaml
-- service.yaml 
